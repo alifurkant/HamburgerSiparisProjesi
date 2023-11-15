@@ -32,7 +32,7 @@ Bu projemizde Asp.Net MVC kullanarak hayali bir hamburger dükkanının aktif bi
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/kaganeris/HamburgerSiparisProjesi
+  git clone https://github.com/alifurkant/HamburgerSiparisProjesi
 ```
 
 Proje dizinine gidin
